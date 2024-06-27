@@ -13,4 +13,6 @@
   - New User form:
     - right side of the page
     - it have five text input, one checkbox and one button.
-    - text inputs are Username, Display Name, Phone, Email and Display Roles. Checkbox controls Enabled. Button set user role as Guest,Admin,SuperAdmin
+    - text inputs are Username, Display Name, Phone, Email and Display Roles. Checkbox controls enabled or disabled. Button sets user role as Guest,Admin,SuperAdmin
+    - text inputs are one line, under the other
+    - checkbox and button are one line side by side
